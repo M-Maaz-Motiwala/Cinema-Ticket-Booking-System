@@ -69,4 +69,4 @@ This is a Movie Ticket Booking and Management System designed as a first-semeste
 
 ## License
 
-Copyright (c) 2022 [Muhammad Maaz Motiwala]
+Copyright (c) 2022-2023 [Muhammad Maaz Motiwala]
