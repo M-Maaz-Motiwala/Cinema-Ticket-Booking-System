@@ -3,7 +3,7 @@ Movie Ticket Booking And Management System | PF Project
 
 A Movie Ticket Booking and Management System designed using C Programming language is a 1st Semester Project.
 
-It covers a wide variety of features including:
+It covers a wide variety of features including: \n
 *1 --> It has two sides, Customer and the other for Admin.*
 *2 --> Admin can Add and Delete a Movie.*
 *3 --> Admin can change the ticket price.* 
