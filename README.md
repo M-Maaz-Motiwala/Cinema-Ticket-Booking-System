@@ -52,7 +52,10 @@ This is a Movie Ticket Booking and Management System designed as a first-semeste
 ![image](https://github.com/M-Maaz-Motiwala/Cinema-Ticket-Booking-System/assets/126332717/0ba5b99b-82d4-4ea4-a4fd-9f402c76435a)
 
 
-6. **Admin Password Protection**: The admin side is protected by a password, ensuring that only authorized users can access the admin functionalities. *!!! Password is **"Hello"** !!!*
+6. **Admin Password Protection**: The admin side is protected by a password, ensuring that only authorized users can access the admin functionalities.
+
+ 
+*!!! Password is **"Hello"** !!!*
 
 
 ![image](https://github.com/M-Maaz-Motiwala/Cinema-Ticket-Booking-System/assets/126332717/1e60b74f-47b2-44bd-b423-d833fe725d86)
