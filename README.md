@@ -46,10 +46,10 @@ This is a Movie Ticket Booking and Management System designed as a first-semeste
 5. **Graphical Seat Representation**: The system provides a console-based graphical representation of seats for each time slot, making it easier for customers to choose their desired seats.
 
 
-![image](https://github.com/M-Maaz-Motiwala/Cinema-Ticket-Booking-System/assets/126332717/65b9b3e3-04fe-4878-93bc-608dea7e0770)
+![image](https://github.com/M-Maaz-Motiwala/Cinema-Ticket-Booking-System/assets/126332717/45a0b620-42ba-4566-80ef-3299b425f064)
 
 
-![image](https://github.com/M-Maaz-Motiwala/Cinema-Ticket-Booking-System/assets/126332717/b4028e9e-26be-49e5-8b7a-63249678b926)
+![image](https://github.com/M-Maaz-Motiwala/Cinema-Ticket-Booking-System/assets/126332717/0ba5b99b-82d4-4ea4-a4fd-9f402c76435a)
 
 
 6. **Admin Password Protection**: The admin side is protected by a password, ensuring that only authorized users can access the admin functionalities. *!!! Password is **"Hello"** !!!*
