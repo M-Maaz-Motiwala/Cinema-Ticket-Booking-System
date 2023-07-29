@@ -10,7 +10,7 @@ This is a Movie Ticket Booking and Management System designed as a first-semeste
 ![image](https://github.com/M-Maaz-Motiwala/Cinema-Ticket-Booking-System/assets/126332717/ab7845d0-54da-4388-aa23-da02c020553a)
 
 
-![image](https://github.com/M-Maaz-Motiwala/Cinema-Ticket-Booking-System/assets/126332717/699b9bfb-e0ff-4f3a-9956-8507870a292e)
+![image](https://github.com/M-Maaz-Motiwala/Cinema-Ticket-Booking-System/assets/126332717/914b5443-7370-48b9-9067-3f960db070d6)
 
 
 1. **Dual Interface**: The system offers two distinct sides - one for the customers and the other for the administrators.
@@ -28,12 +28,10 @@ This is a Movie Ticket Booking and Management System designed as a first-semeste
 ![image](https://github.com/M-Maaz-Motiwala/Cinema-Ticket-Booking-System/assets/126332717/5c85d680-79b0-4fbd-b2dc-63d451d8efec)
 
 
-
 3. **Ticket Price Control**: Administrators have the authority to change the ticket prices for different movies.
 
 
-![image](https://github.com/M-Maaz-Motiwala/Cinema-Ticket-Booking-System/assets/126332717/ef1fb6ae-0926-41d8-ab20-163bab9cb943)
-
+![image](https://github.com/M-Maaz-Motiwala/Cinema-Ticket-Booking-System/assets/126332717/9b2c8f51-0ad5-4450-a77a-48841566f57c)
 
 
 4. **Movie Selection**: Customers can choose their preferred movie, showtime, and seats from the available options.
@@ -63,7 +61,7 @@ This is a Movie Ticket Booking and Management System designed as a first-semeste
 7. **Receipt Generation**: After the customer completes the booking process, a final receipt is displayed with all the relevant details, such as movie name, showtime, seats booked, and total amount.
 
 
-![image](https://github.com/M-Maaz-Motiwala/Cinema-Ticket-Booking-System/assets/126332717/0f6a3ef6-770e-4e86-8900-581e0feb0cd9)
+![image](https://github.com/M-Maaz-Motiwala/Cinema-Ticket-Booking-System/assets/126332717/518f4f58-bd8b-4f84-9c80-eaed2a5298ba)
 
 
 ## License
